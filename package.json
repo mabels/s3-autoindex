@@ -38,7 +38,7 @@
     "@types/node": "^8.5.2",
     "@types/request-promise-native": "^1.0.10",
     "@types/uuid": "^3.4.3",
-    "@types/yargs": "^10.0.0",
+    "@types/yargs": "^11.1.0",
     "chai": "^4.1.2",
     "domhandler": "^2.4.1",
     "memwatch-next": "^0.3.0",
