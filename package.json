@@ -42,7 +42,7 @@
     "chai": "^4.1.2",
     "domhandler": "^2.4.1",
     "memwatch-next": "^0.3.0",
-    "domutils": "^1.6.2",
+    "domutils": "^2.0.0",
     "htmlparser2": "^3.9.2",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
