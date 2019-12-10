@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/mabels/s3-autoindex#readme",
   "devDependencies": {
-    "@types/chai": "^4.0.10",
+    "@types/chai": "^4.2.7",
     "@types/htmlparser2": "^3.7.31",
     "@types/mock-aws-s3": "^2.6.0",
     "@types/memwatch-next": "^0.3.1",
